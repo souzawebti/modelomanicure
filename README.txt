@@ -1,0 +1,1 @@
+Este arquivo descreve alterações feitas no projeto
