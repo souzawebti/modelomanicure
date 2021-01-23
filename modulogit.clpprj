@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<project name="C:\XAMPP\htdocs\modulogit\modulogit.clpprj">
+ <settings>
+  <PM_URL><![CDATA[http://localhost/C:/XAMPP/htdocs/modulogit]]></PM_URL>
+  <PM_HOME_URL><![CDATA[http://localhost/C:/XAMPP/htdocs/modulogit]]></PM_HOME_URL>
+  <PM_LIBS><![CDATA[]]></PM_LIBS>
+  <PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION>
+  <PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR>
+  <PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE>
+ </settings>
+ <removed value=";"/>
+ <added value=""/>
+ <lastopfiles>
+  <lastactivefile name=""/>
+ </lastopfiles>
+ <errors version="1.10"/>
+ <cakedata/>
+ <dplmenupath/>
+ <laravael/>
+ <smartyassings/>
+ <twigtemplate/>
+ <yiidata/>
+ <todoblock/>
+ <dbgurls/>
+ <filescache>
+  <file crc="1611366596247" name="C:\XAMPP\htdocs\modulogit\README.txt"/>
+  <file crc="1611361073081" name="C:\XAMPP\htdocs\modulogit\NewFile0.txt"/>
+  <file crc="1611369549204" name="C:\XAMPP\htdocs\modulogit\index.html"/>
+  <file crc="1611366806611" name="C:\XAMPP\htdocs\modulogit\estilo.css"/>
+ </filescache>
+</project>
